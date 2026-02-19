@@ -1,0 +1,1 @@
+No entendi muy bien la consigna de lo que habia que hacer pero guiandome con el trabajo completo que nos mostro anteriormente hice una comparativa de los prompts aunque en el modelo final solo voy a usar 1 textual y 1 de imagen
